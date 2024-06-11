@@ -80,16 +80,16 @@
     cursor: pointer;
 }
 
-.supContainer {
+/* .supContainer {
     text-decoration: none;
     cursor: pointer;
-}
+} */
 
-.supContainer:hover {
+/* .supContainer:hover {
     text-decoration: underline;
-}
+} */
 
-sup {
+/* sup {
     position: relative;
     display: inline-flex;
     align-items: center;
@@ -107,7 +107,7 @@ sup {
     text-decoration-color: transparent;
     outline: transparent solid 1px;
     cursor: pointer;
-}
+} */
 
 .retryButton {
     width: fit-content;
